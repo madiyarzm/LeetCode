@@ -39,4 +39,8 @@ A collection of LeetCode questions I solved, divided to categories!
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madiyarzm/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/madiyarzm/LeetCode/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
