@@ -42,5 +42,10 @@ A collection of LeetCode questions I solved, divided to categories!
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/madiyarzm/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/madiyarzm/LeetCode/tree/master/0058-length-of-last-word) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/madiyarzm/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
