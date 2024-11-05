@@ -1,22 +1,18 @@
+#BFS, solving with 2 pointers, Greedy approach O(n)
+
 class Solution:
     def jump(self, nums: List[int]) -> int:
-        
-        max_reach = 0
-        current_end = 0
-        counter = 0
-        for i in range(0, len(nums) - 1):
+        res = 0 
+        l = r = 0
 
-
-            if max_reach < i + nums[i]:
-                max_reach = i + nums[i]
+        while r < len(nums) - 1:
+            f = 0
+            for i in range(l, r + 1):
+                f = max(f, i + nums[i])
             
-            #max_reach = max(max_reach, i + nums[i])
+            l = r + 1
+            r = f
+            res = res + 1
 
-            if max_reach >= len(nums) - 1:
-                return counter + 1
+        return res
 
-            if current_end == i:
-                counter = counter + 1
-                current_end = max_reach
-
-        return counter
