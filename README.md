@@ -5,6 +5,7 @@ A collection of LeetCode questions I solved, divided to categories!
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/madiyarzm/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0045-jump-game-ii](https://github.com/madiyarzm/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/madiyarzm/LeetCode/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/madiyarzm/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madiyarzm/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions I solved, divided to categories!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/madiyarzm/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/madiyarzm/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madiyarzm/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## String
@@ -62,5 +64,6 @@ A collection of LeetCode questions I solved, divided to categories!
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/madiyarzm/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/madiyarzm/LeetCode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
