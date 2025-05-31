@@ -11,6 +11,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madiyarzm/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/madiyarzm/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/madiyarzm/LeetCode/tree/master/0189-rotate-array) |
+| [0274-h-index](https://github.com/madiyarzm/LeetCode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/madiyarzm/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Two Pointers
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions I solved, divided to categories!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/madiyarzm/LeetCode/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/madiyarzm/LeetCode/tree/master/0274-h-index) |
 ## Counting
 |  |
 | ------- |
@@ -78,4 +80,8 @@ A collection of LeetCode questions I solved, divided to categories!
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/madiyarzm/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/madiyarzm/LeetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
