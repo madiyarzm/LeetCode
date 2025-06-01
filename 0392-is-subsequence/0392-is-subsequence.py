@@ -15,7 +15,7 @@ class Solution:
         while i < len(s):
             while j < len(t) and s[i] != t[j]:
                 j += 1
-                #print("here are pairs ", s[i], t[j])
+                
 
             if j == len(t):
                 return False
