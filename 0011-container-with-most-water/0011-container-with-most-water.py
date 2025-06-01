@@ -4,7 +4,7 @@ class Solution:
         j = len(height) - 1
 
         water = 0
-        mx_water = float('-inf')
+        mx_water = 0
 
         while i < j:
             water = min(height[i], height[j]) * (j - i)
