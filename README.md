@@ -56,6 +56,7 @@ A collection of LeetCode questions I solved, divided to categories!
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/madiyarzm/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/madiyarzm/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/madiyarzm/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/madiyarzm/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
