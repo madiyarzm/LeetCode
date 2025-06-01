@@ -25,6 +25,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0088-merge-sorted-array](https://github.com/madiyarzm/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/madiyarzm/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/madiyarzm/LeetCode/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/madiyarzm/LeetCode/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0055-jump-game](https://github.com/madiyarzm/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madiyarzm/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/madiyarzm/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/madiyarzm/LeetCode/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/madiyarzm/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/madiyarzm/LeetCode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/madiyarzm/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/madiyarzm/LeetCode/tree/master/0392-is-subsequence) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/madiyarzm/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Trie
 |  |
