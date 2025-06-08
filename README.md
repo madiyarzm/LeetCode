@@ -22,6 +22,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0209-minimum-size-subarray-sum](https://github.com/madiyarzm/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0274-h-index](https://github.com/madiyarzm/LeetCode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/madiyarzm/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [1755-defuse-the-bomb](https://github.com/madiyarzm/LeetCode/tree/master/1755-defuse-the-bomb) |
 ## Two Pointers
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/madiyarzm/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/madiyarzm/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [1755-defuse-the-bomb](https://github.com/madiyarzm/LeetCode/tree/master/1755-defuse-the-bomb) |
 ## Prefix Sum
 |  |
 | ------- |
