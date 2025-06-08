@@ -13,9 +13,9 @@ class Solution:
             
             i += 1
             
+        if nums[len(nums) - 1] == 0 or nums[len(nums) - 2] == 0:
+            return -1
         
-        for i in range(len(nums)):
-            if nums[i] == 0:
-                return -1
+
 
         return flips
