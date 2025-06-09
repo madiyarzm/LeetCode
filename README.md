@@ -23,6 +23,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0274-h-index](https://github.com/madiyarzm/LeetCode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/madiyarzm/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1755-defuse-the-bomb](https://github.com/madiyarzm/LeetCode/tree/master/1755-defuse-the-bomb) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/madiyarzm/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/madiyarzm/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Two Pointers
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0036-valid-sudoku](https://github.com/madiyarzm/LeetCode/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/madiyarzm/LeetCode/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/madiyarzm/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/madiyarzm/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0003-longest-substring-without-repeating-characters](https://github.com/madiyarzm/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/madiyarzm/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1755-defuse-the-bomb](https://github.com/madiyarzm/LeetCode/tree/master/1755-defuse-the-bomb) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/madiyarzm/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/madiyarzm/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/madiyarzm/LeetCode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Prefix Sum
