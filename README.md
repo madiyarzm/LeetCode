@@ -70,6 +70,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0009-palindrome-number](https://github.com/madiyarzm/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/madiyarzm/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/madiyarzm/LeetCode/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/madiyarzm/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/madiyarzm/LeetCode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/madiyarzm/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Dynamic Programming
@@ -135,6 +136,7 @@ A collection of LeetCode questions I solved, divided to categories!
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/madiyarzm/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/madiyarzm/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/madiyarzm/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 ## Sliding Window
