@@ -4,46 +4,25 @@ class Solution:
         mx_val = 0
         mn_val = float('inf')
 
+        # Compute max
         j = 0
+        while j < len(lst) and lst[j] == '9':
+            j += 1
 
-        while j < len(lst):
-            
-            i = 0
+        if j < len(lst):
             first = lst[j]
             mx = []
+            for ch in lst:
+                mx.append('9' if ch == first else ch)
+            mx_val = int(''.join(mx))
+        else:
+            mx_val = int(''.join(lst))  # all 9s → no change
 
-            while i < len(lst):
-                
-                if first == lst[i]:
-                    mx.append('9')
-                
-                else:
-                    mx.append(lst[i])
-                
-                i += 1
-            
-            #print(int(''.join(mx)), " this is mx")
-            mx_val = max(mx_val, int(''.join(mx)))
-            
-            i = 0
-            mn = []
-            
-            while i < len(lst):
-                
-                if first == lst[i]:
-                    mn.append('0')
-                
-                else:
-                    mn.append(lst[i])
-                
-                i += 1
-            
-            mn_val = min(mn_val, int(''.join(mn)))
-            
-            #mx_diff = max(mx_diff, int(''.join(mx)) - int(''.join(mn)))
-            j += 1
-            
-            #print(int(''.join(mn)), " this is mn")
+        # Compute min
+        first = lst[0]
+        mn = []
+        for ch in lst:
+            mn.append('0' if ch == first else ch)
+        mn_val = int(''.join(mn))
 
-        mx_diff = mx_val - mn_val
-        return mx_diff
+        return mx_val - mn_val
