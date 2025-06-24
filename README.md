@@ -23,6 +23,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0274-h-index](https://github.com/madiyarzm/LeetCode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/madiyarzm/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1755-defuse-the-bomb](https://github.com/madiyarzm/LeetCode/tree/master/1755-defuse-the-bomb) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/madiyarzm/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/madiyarzm/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/madiyarzm/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/madiyarzm/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/madiyarzm/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/madiyarzm/LeetCode/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/madiyarzm/LeetCode/tree/master/0392-is-subsequence) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/madiyarzm/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
