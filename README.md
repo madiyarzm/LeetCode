@@ -40,6 +40,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0151-reverse-words-in-a-string](https://github.com/madiyarzm/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/madiyarzm/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/madiyarzm/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/madiyarzm/LeetCode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/madiyarzm/LeetCode/tree/master/0392-is-subsequence) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/madiyarzm/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Hash Table
@@ -50,6 +51,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0013-roman-to-integer](https://github.com/madiyarzm/LeetCode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/madiyarzm/LeetCode/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/madiyarzm/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/madiyarzm/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/madiyarzm/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/madiyarzm/LeetCode/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/madiyarzm/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0013-roman-to-integer](https://github.com/madiyarzm/LeetCode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/madiyarzm/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/madiyarzm/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/madiyarzm/LeetCode/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/madiyarzm/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/madiyarzm/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/madiyarzm/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
