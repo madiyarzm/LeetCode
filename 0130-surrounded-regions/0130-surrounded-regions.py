@@ -38,5 +38,5 @@ class Solution:
                 if board[r][c] == "O":
                     dfs_capture(r,c)
                 
-                if board[r][c] == "T":
+                elif board[r][c] == "T":
                     board[r][c] = "O"
