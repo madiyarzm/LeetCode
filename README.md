@@ -20,6 +20,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/madiyarzm/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/madiyarzm/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/madiyarzm/LeetCode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/madiyarzm/LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/madiyarzm/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/madiyarzm/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0274-h-index](https://github.com/madiyarzm/LeetCode/tree/master/0274-h-index) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | ------- |
 | [0036-valid-sudoku](https://github.com/madiyarzm/LeetCode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/madiyarzm/LeetCode/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/madiyarzm/LeetCode/tree/master/0200-number-of-islands) |
 ## Simulation
 |  |
 | ------- |
@@ -199,4 +201,16 @@ A collection of LeetCode questions I solved, divided to categories!
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/madiyarzm/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/madiyarzm/LeetCode/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/madiyarzm/LeetCode/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/madiyarzm/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
