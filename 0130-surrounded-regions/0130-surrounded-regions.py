@@ -37,9 +37,6 @@ class Solution:
             for c in range(COLS):
                 if board[r][c] == "O":
                     dfs_capture(r,c)
-        
-        for r in range(ROWS):
-            for c in range(COLS):
+                
                 if board[r][c] == "T":
                     board[r][c] = "O"
-        
