@@ -5,24 +5,22 @@ class Solution:
         columns = len(grid[0])
         islands = 0
 
-        def dfs_islands(r, c):
-
+        def dfs_explore(r, c):
             if r < 0 or r >= rows or c < 0 or c >= columns or grid[r][c] == "0":
                 return 
             
-            #else
-
             grid[r][c] = "0"
 
-            dfs_islands(r + 1, c)
-            dfs_islands(r - 1, c)
-            dfs_islands(r, c + 1)
-            dfs_islands(r, c - 1)
-
-        for r in range(rows):
-            for c in range(columns):
-                if grid[r][c] == "1":
-                    dfs_islands(r, c)
+            #explore all directions
+            dfs_explore(r + 1, c)
+            dfs_explore(r - 1, c)
+            dfs_explore(r, c + 1)
+            dfs_explore(r, c - 1)
+        
+        for i in range(rows):
+            for j in range(columns):
+                if grid[i][j] == "1":
+                    dfs_explore(i,j)
                     islands += 1
         
         return islands
