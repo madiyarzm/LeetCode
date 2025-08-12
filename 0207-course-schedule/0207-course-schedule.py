@@ -13,24 +13,31 @@ class Solution:
         #dfs 
         
         seen = set()
-        cycle = set()
 
         def dfs(course):
 
-            #base case
+            #base case, during exploration of course's prereqs I found out course itself
             if course in seen:
                 return False
             
+            #seeing whether this courses prereqs are fully cleared, if its -> go higher level
             if graph[course] == []:
                 return True
             
+            #start marking the current course we r going to dive 
             seen.add(course)
 
+            #for each prereq of the course
             for neigbor in graph[course]:
+
+                #if course's prereq itself has a cycle, then end this course exploration.
                 if not dfs(neigbor):
                     return False
             
+            #if all was clear, then remove this course from exploration
             seen.remove(course)
+
+            #and clear all of its prereqs
             graph[course] = []
             return True
 
@@ -41,3 +48,4 @@ class Solution:
                 return False
         
         return True
+
