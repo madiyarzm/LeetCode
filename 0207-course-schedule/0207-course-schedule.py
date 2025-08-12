@@ -41,13 +41,3 @@ class Solution:
                 return False
         
         return True
-            
-                
-
-
-
-
-            
-         
-        
-        dfs(graph, prerequisites[0])
