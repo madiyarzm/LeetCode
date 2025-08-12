@@ -210,16 +210,26 @@ A collection of LeetCode questions I solved, divided to categories!
 | ------- |
 | [0130-surrounded-regions](https://github.com/madiyarzm/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/madiyarzm/LeetCode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/madiyarzm/LeetCode/tree/master/0207-course-schedule) |
 | [0733-flood-fill](https://github.com/madiyarzm/LeetCode/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/madiyarzm/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/madiyarzm/LeetCode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/madiyarzm/LeetCode/tree/master/0207-course-schedule) |
 | [0733-flood-fill](https://github.com/madiyarzm/LeetCode/tree/master/0733-flood-fill) |
 ## Union Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/madiyarzm/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/madiyarzm/LeetCode/tree/master/0200-number-of-islands) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/madiyarzm/LeetCode/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/madiyarzm/LeetCode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
