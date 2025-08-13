@@ -29,6 +29,8 @@ class Solution:
 
             return answer
 
-        if dp(amount,coins) == float('inf'): return -1
+        result = dp(amount,coins)
 
-        return dp(amount, coins)  
+        if result == float('inf'): return -1
+
+        return result
