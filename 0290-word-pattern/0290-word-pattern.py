@@ -1,6 +1,10 @@
 class Solution:
     def wordPattern(self, pattern: str, s: str) -> bool:
         
+        #lets goo
+        #we simply parallely check whether letter matches word and vice versa
+        #the thing is in uniqueness, one word cant have two letters
+
         words = s.split()
 
         l2w = {}
