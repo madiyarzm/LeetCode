@@ -1,26 +1,23 @@
 class Solution:
     def wordPattern(self, pattern: str, s: str) -> bool:
         
+        words = s.split()
 
-        mapping = {}
-        unique_words = set()
-        lst = s.split(" ")
+        l2w = {}
+        w2l = {}
 
-        if len(pattern) != len(lst):
+        if len(pattern) != len(words):
             return False
 
+        for letter, word in zip(pattern, words):
 
-        for i in range(len(lst)):
+            if letter in l2w and word != l2w[letter]:
+                return False
 
-            if pattern[i] in mapping:
-                if mapping[pattern[i]] != lst[i]:
-                    return False
+            if word in w2l and letter != w2l[word]:
+                return False
 
-            else:  
-                if lst[i] in unique_words:
-                    return False
-
-                mapping[pattern[i]] = lst[i]
-                unique_words.add(lst[i])
+            l2w[letter] = word
+            w2l[word] = letter
         
         return True
