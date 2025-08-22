@@ -51,6 +51,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0189-rotate-array](https://github.com/madiyarzm/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/madiyarzm/LeetCode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/madiyarzm/LeetCode/tree/master/0392-is-subsequence) |
+| [0961-long-pressed-name](https://github.com/madiyarzm/LeetCode/tree/master/0961-long-pressed-name) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/madiyarzm/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Hash Table
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0290-word-pattern](https://github.com/madiyarzm/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/madiyarzm/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/madiyarzm/LeetCode/tree/master/0392-is-subsequence) |
+| [0961-long-pressed-name](https://github.com/madiyarzm/LeetCode/tree/master/0961-long-pressed-name) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/madiyarzm/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3194-find-words-containing-character](https://github.com/madiyarzm/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/madiyarzm/LeetCode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
