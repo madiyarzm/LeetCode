@@ -2,8 +2,8 @@ class Solution:
     def isLongPressedName(self, name: str, typed: str) -> bool:
         
         #edge case
-        if len(name) > len(typed):
-            return False
+        #if len(name) > len(typed):
+            #return False
 
         i = 0
         j = 0
