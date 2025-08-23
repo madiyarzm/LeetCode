@@ -29,6 +29,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0380-insert-delete-getrandom-o1](https://github.com/madiyarzm/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0733-flood-fill](https://github.com/madiyarzm/LeetCode/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/madiyarzm/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0940-fruit-into-baskets](https://github.com/madiyarzm/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1755-defuse-the-bomb](https://github.com/madiyarzm/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [2048-build-array-from-permutation](https://github.com/madiyarzm/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/madiyarzm/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0290-word-pattern](https://github.com/madiyarzm/LeetCode/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/madiyarzm/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/madiyarzm/LeetCode/tree/master/0383-ransom-note) |
+| [0940-fruit-into-baskets](https://github.com/madiyarzm/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/madiyarzm/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Divide and Conquer
 |  |
@@ -181,6 +183,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0003-longest-substring-without-repeating-characters](https://github.com/madiyarzm/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/madiyarzm/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/madiyarzm/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0940-fruit-into-baskets](https://github.com/madiyarzm/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1755-defuse-the-bomb](https://github.com/madiyarzm/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/madiyarzm/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/madiyarzm/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
