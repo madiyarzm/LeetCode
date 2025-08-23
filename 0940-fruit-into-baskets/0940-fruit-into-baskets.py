@@ -7,6 +7,8 @@ class Solution:
         mx = 0
         total = 0
 
+
+        #sliding window -> check key values, if there are more than 2 keys, keep sliding
         l = 0
         for r in range(len(fruits)):
 
@@ -17,9 +19,10 @@ class Solution:
                 basket[fruits[l]] -= 1
                 total -= 1
                 
+                #if there is no values for certain key, remove this key from consideration
                 if basket[fruits[l]] == 0:
                     basket.pop(fruits[l])
-                    
+
                 l += 1
 
             mx = max(mx, total)
