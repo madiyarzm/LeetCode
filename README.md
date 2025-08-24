@@ -100,6 +100,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0189-rotate-array](https://github.com/madiyarzm/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/madiyarzm/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/madiyarzm/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/madiyarzm/LeetCode/tree/master/0326-power-of-three) |
 | [0380-insert-delete-getrandom-o1](https://github.com/madiyarzm/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/madiyarzm/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/madiyarzm/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -266,4 +267,5 @@ A collection of LeetCode questions I solved, divided to categories!
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/madiyarzm/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/madiyarzm/LeetCode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
