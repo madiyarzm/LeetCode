@@ -103,6 +103,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0326-power-of-three](https://github.com/madiyarzm/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/madiyarzm/LeetCode/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/madiyarzm/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [1448-maximum-69-number](https://github.com/madiyarzm/LeetCode/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/madiyarzm/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/madiyarzm/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Dynamic Programming
@@ -155,6 +156,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/madiyarzm/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/madiyarzm/LeetCode/tree/master/0134-gas-station) |
 | [0768-partition-labels](https://github.com/madiyarzm/LeetCode/tree/master/0768-partition-labels) |
+| [1448-maximum-69-number](https://github.com/madiyarzm/LeetCode/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/madiyarzm/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/madiyarzm/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/madiyarzm/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
