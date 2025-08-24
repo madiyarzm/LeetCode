@@ -134,6 +134,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0392-is-subsequence](https://github.com/madiyarzm/LeetCode/tree/master/0392-is-subsequence) |
 | [0768-partition-labels](https://github.com/madiyarzm/LeetCode/tree/master/0768-partition-labels) |
 | [0961-long-pressed-name](https://github.com/madiyarzm/LeetCode/tree/master/0961-long-pressed-name) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/madiyarzm/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/madiyarzm/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3194-find-words-containing-character](https://github.com/madiyarzm/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/madiyarzm/LeetCode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
