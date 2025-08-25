@@ -120,6 +120,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0322-coin-change](https://github.com/madiyarzm/LeetCode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/madiyarzm/LeetCode/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/madiyarzm/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [1263-number-of-dice-rolls-with-target-sum](https://github.com/madiyarzm/LeetCode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 ## String
 |  |
 | ------- |
