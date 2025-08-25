@@ -33,6 +33,7 @@ class Solution:
         for connections in range(len(isConnected)):
 
             if connections not in visited:
+                visited.add(connections)
                 dfs(connections)
                 counter += 1
         
