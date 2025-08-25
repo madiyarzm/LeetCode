@@ -53,6 +53,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0189-rotate-array](https://github.com/madiyarzm/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/madiyarzm/LeetCode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/madiyarzm/LeetCode/tree/master/0392-is-subsequence) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/madiyarzm/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/madiyarzm/LeetCode/tree/master/0768-partition-labels) |
 | [0961-long-pressed-name](https://github.com/madiyarzm/LeetCode/tree/master/0961-long-pressed-name) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/madiyarzm/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0290-word-pattern](https://github.com/madiyarzm/LeetCode/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/madiyarzm/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/madiyarzm/LeetCode/tree/master/0383-ransom-note) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/madiyarzm/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/madiyarzm/LeetCode/tree/master/0768-partition-labels) |
 | [0940-fruit-into-baskets](https://github.com/madiyarzm/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/madiyarzm/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0210-course-schedule-ii](https://github.com/madiyarzm/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0404-sum-of-left-leaves](https://github.com/madiyarzm/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/madiyarzm/LeetCode/tree/master/0547-number-of-provinces) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/madiyarzm/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/madiyarzm/LeetCode/tree/master/0733-flood-fill) |
 | [0904-leaf-similar-trees](https://github.com/madiyarzm/LeetCode/tree/master/0904-leaf-similar-trees) |
 ## Breadth-First Search
@@ -251,6 +254,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0322-coin-change](https://github.com/madiyarzm/LeetCode/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/madiyarzm/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/madiyarzm/LeetCode/tree/master/0547-number-of-provinces) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/madiyarzm/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/madiyarzm/LeetCode/tree/master/0733-flood-fill) |
 ## Union Find
 |  |
@@ -273,11 +277,13 @@ A collection of LeetCode questions I solved, divided to categories!
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/madiyarzm/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/madiyarzm/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-leaf-similar-trees](https://github.com/madiyarzm/LeetCode/tree/master/0904-leaf-similar-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/madiyarzm/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/madiyarzm/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-leaf-similar-trees](https://github.com/madiyarzm/LeetCode/tree/master/0904-leaf-similar-trees) |
 ## Recursion
 |  |
@@ -285,4 +291,8 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0231-power-of-two](https://github.com/madiyarzm/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/madiyarzm/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/madiyarzm/LeetCode/tree/master/0342-power-of-four) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/madiyarzm/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->
