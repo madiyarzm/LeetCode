@@ -234,6 +234,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0207-course-schedule](https://github.com/madiyarzm/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/madiyarzm/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0404-sum-of-left-leaves](https://github.com/madiyarzm/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0547-number-of-provinces](https://github.com/madiyarzm/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/madiyarzm/LeetCode/tree/master/0733-flood-fill) |
 | [0904-leaf-similar-trees](https://github.com/madiyarzm/LeetCode/tree/master/0904-leaf-similar-trees) |
 ## Breadth-First Search
@@ -245,17 +246,20 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0210-course-schedule-ii](https://github.com/madiyarzm/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/madiyarzm/LeetCode/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/madiyarzm/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0547-number-of-provinces](https://github.com/madiyarzm/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/madiyarzm/LeetCode/tree/master/0733-flood-fill) |
 ## Union Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/madiyarzm/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/madiyarzm/LeetCode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/madiyarzm/LeetCode/tree/master/0547-number-of-provinces) |
 ## Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/madiyarzm/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/madiyarzm/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/madiyarzm/LeetCode/tree/master/0547-number-of-provinces) |
 ## Topological Sort
 |  |
 | ------- |
