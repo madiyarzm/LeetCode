@@ -7,6 +7,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0001-two-sum](https://github.com/madiyarzm/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/madiyarzm/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/madiyarzm/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/madiyarzm/LeetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/madiyarzm/LeetCode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/madiyarzm/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/madiyarzm/LeetCode/tree/master/0045-jump-game-ii) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions I solved, divided to categories!
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/madiyarzm/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/madiyarzm/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/madiyarzm/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/madiyarzm/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
