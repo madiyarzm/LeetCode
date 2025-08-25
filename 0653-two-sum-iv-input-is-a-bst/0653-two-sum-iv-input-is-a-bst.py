@@ -6,19 +6,21 @@
 #         self.right = right
 class Solution:
     def findTarget(self, root: Optional[TreeNode], k: int) -> bool:
-        
+
         seen = set()
-        def dfs(root):
-            if root is None:
-                return False
 
-            if k - root.val in seen:
-                return True
-
-            seen.add(root.val)
-
-            return dfs(root.left) or dfs(root.right)
+        def dfs(node):
             
+            #didnt find pair here
+            if node is None:
+                return False
+            
+            if k - node.val in seen:
+                return True
+            
+            seen.add(node.val)
+        
+        #acts as Boolean OR, if at least one path finds it, returns TRUE
+            return dfs(node.left) or dfs(node.right)
     
         return dfs(root)
-        
