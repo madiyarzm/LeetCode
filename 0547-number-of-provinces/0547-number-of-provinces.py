@@ -29,11 +29,10 @@ class Solution:
         
         counter = 0
 
-        #loop through all provinces (all ci)
+        #loop through all provinces -> each index is certain city 
         for connections in range(len(isConnected)):
 
             if connections not in visited:
-                visited.add(connections)
                 dfs(connections)
                 counter += 1
         
