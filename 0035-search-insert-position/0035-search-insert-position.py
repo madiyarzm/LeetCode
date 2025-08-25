@@ -4,6 +4,8 @@ class Solution:
         lower_bound = 0
         higher_bound = len(nums) - 1
 
+        #simple binary search, with extra insertion which will always be at final lower_bound
+
         #1 + 3 // 2 = 2
         while lower_bound <= higher_bound:
             
