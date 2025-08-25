@@ -134,6 +134,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0290-word-pattern](https://github.com/madiyarzm/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/madiyarzm/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/madiyarzm/LeetCode/tree/master/0392-is-subsequence) |
+| [0459-repeated-substring-pattern](https://github.com/madiyarzm/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0768-partition-labels](https://github.com/madiyarzm/LeetCode/tree/master/0768-partition-labels) |
 | [0961-long-pressed-name](https://github.com/madiyarzm/LeetCode/tree/master/0961-long-pressed-name) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/madiyarzm/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions I solved, divided to categories!
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/madiyarzm/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/madiyarzm/LeetCode/tree/master/0459-repeated-substring-pattern) |
 ## Greedy
 |  |
 | ------- |
