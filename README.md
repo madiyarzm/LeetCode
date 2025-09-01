@@ -9,6 +9,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/madiyarzm/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/madiyarzm/LeetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/madiyarzm/LeetCode/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/madiyarzm/LeetCode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/madiyarzm/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/madiyarzm/LeetCode/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/madiyarzm/LeetCode/tree/master/0054-spiral-matrix) |
@@ -299,4 +300,8 @@ A collection of LeetCode questions I solved, divided to categories!
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/madiyarzm/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/madiyarzm/LeetCode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
