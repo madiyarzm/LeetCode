@@ -12,6 +12,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0039-combination-sum](https://github.com/madiyarzm/LeetCode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/madiyarzm/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/madiyarzm/LeetCode/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/madiyarzm/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/madiyarzm/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/madiyarzm/LeetCode/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/madiyarzm/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0012-integer-to-roman](https://github.com/madiyarzm/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/madiyarzm/LeetCode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/madiyarzm/LeetCode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/madiyarzm/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/madiyarzm/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/madiyarzm/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/madiyarzm/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions I solved, divided to categories!
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/madiyarzm/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/madiyarzm/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/madiyarzm/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/madiyarzm/LeetCode/tree/master/0242-valid-anagram) |
@@ -135,6 +138,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0013-roman-to-integer](https://github.com/madiyarzm/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/madiyarzm/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/madiyarzm/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/madiyarzm/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/madiyarzm/LeetCode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/madiyarzm/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/madiyarzm/LeetCode/tree/master/0205-isomorphic-strings) |
