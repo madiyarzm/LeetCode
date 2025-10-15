@@ -7,14 +7,19 @@ class MinStack:
     def push(self, val: int) -> None:
         self.stack.append(val)
 
+        #if min stack is not empty
         if self.min_stack:
+
+            #append only currently min value to minstack
             val = min(val, self.min_stack[-1])
             self.min_stack.append(val)
         
+        #if empty just add it
         else:
             self.min_stack.append(val)
 
 
+    #you have to pop value from both stacks, to not have unexistent val from min_stack
     def pop(self) -> None:
         self.stack.pop()
         self.min_stack.pop()
