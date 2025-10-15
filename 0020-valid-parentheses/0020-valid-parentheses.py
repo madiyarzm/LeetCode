@@ -1,7 +1,7 @@
 class Solution:
     def isValid(self, s: str) -> bool:
         
-        b = {
+        close_to_open = {
             ")": "(",
             "}": "{",
             "]": "[",
@@ -11,20 +11,13 @@ class Solution:
 
         for bracket in s:
 
-            #closing bracket
-            if bracket not in b:
+            if bracket not in close_to_open:
                 stack.append(bracket)
-            
 
             else:
-                if not stack or b[bracket] != stack[-1]:
+                if not stack or close_to_open[bracket] != stack[-1]:
                     return False
                 
-                else:
-                    stack.pop()
-
-        if not stack:
-            return True
+                stack.pop()
         
-        else:
-            return False
+        return not stack
