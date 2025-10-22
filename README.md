@@ -23,6 +23,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0128-longest-consecutive-sequence](https://github.com/madiyarzm/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/madiyarzm/LeetCode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/madiyarzm/LeetCode/tree/master/0134-gas-station) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/madiyarzm/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/madiyarzm/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/madiyarzm/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/madiyarzm/LeetCode/tree/master/0189-rotate-array) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0012-integer-to-roman](https://github.com/madiyarzm/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/madiyarzm/LeetCode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/madiyarzm/LeetCode/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/madiyarzm/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/madiyarzm/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/madiyarzm/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/madiyarzm/LeetCode/tree/master/0231-power-of-two) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | ------- |
 | [0020-valid-parentheses](https://github.com/madiyarzm/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/madiyarzm/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/madiyarzm/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/madiyarzm/LeetCode/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
