@@ -3,10 +3,10 @@ class Solution:
         
         while len(s) > 2:
             
-            holder = ""
+            holder = []
             for i in range(len(s) - 1):
-                holder = holder + str(((int(s[i]) + int(s[i + 1])) % 10))
+                holder.append(str(((int(s[i]) + int(s[i + 1])) % 10)))
             
-            s = holder
+            s = "".join(holder)
         
         return s[0] == s[1]
