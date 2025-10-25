@@ -128,6 +128,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0380-insert-delete-getrandom-o1](https://github.com/madiyarzm/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1448-maximum-69-number](https://github.com/madiyarzm/LeetCode/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/madiyarzm/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/madiyarzm/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/madiyarzm/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/madiyarzm/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/madiyarzm/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
