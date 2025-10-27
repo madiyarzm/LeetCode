@@ -1,6 +1,10 @@
 class Solution:
     def numberOfBeams(self, bank: List[str]) -> int:
         
+        #remove rows with no devices
+        #count devices using .count
+        #sum connections between adjacent non-empty rows, by multiplying
+
         counts = [0] * len(bank)
 
         for row in bank:
