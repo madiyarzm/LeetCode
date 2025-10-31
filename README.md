@@ -50,6 +50,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [2856-count-complete-subarrays-in-an-array](https://github.com/madiyarzm/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3194-find-words-containing-character](https://github.com/madiyarzm/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/madiyarzm/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/madiyarzm/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/madiyarzm/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/madiyarzm/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Two Pointers
@@ -96,6 +97,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [2169-simple-bank-system](https://github.com/madiyarzm/LeetCode/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/madiyarzm/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/madiyarzm/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/madiyarzm/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [2174-next-greater-numerically-balanced-number](https://github.com/madiyarzm/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/madiyarzm/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/madiyarzm/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/madiyarzm/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/madiyarzm/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/madiyarzm/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Dynamic Programming
