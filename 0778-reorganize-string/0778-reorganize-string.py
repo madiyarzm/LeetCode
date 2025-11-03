@@ -31,6 +31,7 @@ class Solution:
                 if count1 < -1:
                     return ""
                 
+                #if there is one element left only, just add it
                 result.append(char1)
                 break
 
