@@ -128,6 +128,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0347-top-k-frequent-elements](https://github.com/madiyarzm/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/madiyarzm/LeetCode/tree/master/0383-ransom-note) |
 | [0778-reorganize-string](https://github.com/madiyarzm/LeetCode/tree/master/0778-reorganize-string) |
+| [1708-design-parking-system](https://github.com/madiyarzm/LeetCode/tree/master/1708-design-parking-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/madiyarzm/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Math
 |  |
@@ -227,6 +228,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | ------- |
 | [0155-min-stack](https://github.com/madiyarzm/LeetCode/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/madiyarzm/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [1708-design-parking-system](https://github.com/madiyarzm/LeetCode/tree/master/1708-design-parking-system) |
 | [2169-simple-bank-system](https://github.com/madiyarzm/LeetCode/tree/master/2169-simple-bank-system) |
 ## Randomized
 |  |
@@ -289,6 +291,7 @@ A collection of LeetCode questions I solved, divided to categories!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/madiyarzm/LeetCode/tree/master/0054-spiral-matrix) |
+| [1708-design-parking-system](https://github.com/madiyarzm/LeetCode/tree/master/1708-design-parking-system) |
 | [2048-build-array-from-permutation](https://github.com/madiyarzm/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/madiyarzm/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/madiyarzm/LeetCode/tree/master/2169-simple-bank-system) |
