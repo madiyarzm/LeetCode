@@ -4,6 +4,7 @@ class Solution:
         
         result = []
 
+        #creates sorted boxs and units heap
         result = [(-units, box) for box,units in boxTypes]
         heapq.heapify(result)
 
