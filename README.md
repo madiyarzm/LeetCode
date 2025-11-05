@@ -47,6 +47,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/madiyarzm/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/madiyarzm/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/madiyarzm/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/madiyarzm/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/madiyarzm/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/madiyarzm/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/madiyarzm/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [1817-calculate-money-in-leetcode-bank](https://github.com/madiyarzm/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/madiyarzm/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/madiyarzm/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/madiyarzm/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/madiyarzm/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/madiyarzm/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/madiyarzm/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [2048-build-array-from-permutation](https://github.com/madiyarzm/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/madiyarzm/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/madiyarzm/LeetCode/tree/master/2169-simple-bank-system) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/madiyarzm/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/madiyarzm/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/madiyarzm/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/madiyarzm/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -398,6 +401,7 @@ A collection of LeetCode questions I solved, divided to categories!
 ## Combinatorics
 |  |
 | ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/madiyarzm/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/madiyarzm/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Number Theory
 |  |
