@@ -58,6 +58,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/madiyarzm/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/madiyarzm/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/madiyarzm/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/madiyarzm/LeetCode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [2856-count-complete-subarrays-in-an-array](https://github.com/madiyarzm/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/madiyarzm/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/madiyarzm/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/madiyarzm/LeetCode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/madiyarzm/LeetCode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/madiyarzm/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/madiyarzm/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/madiyarzm/LeetCode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## String
 |  |
 | ------- |
@@ -231,6 +234,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/madiyarzm/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/madiyarzm/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/madiyarzm/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/madiyarzm/LeetCode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Design
 |  |
 | ------- |
@@ -286,6 +290,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0209-minimum-size-subarray-sum](https://github.com/madiyarzm/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/madiyarzm/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/madiyarzm/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/madiyarzm/LeetCode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Matrix
 |  |
 | ------- |
@@ -415,6 +420,7 @@ A collection of LeetCode questions I solved, divided to categories!
 |  |
 | ------- |
 | [2174-next-greater-numerically-balanced-number](https://github.com/madiyarzm/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/madiyarzm/LeetCode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Linked List
 |  |
 | ------- |
