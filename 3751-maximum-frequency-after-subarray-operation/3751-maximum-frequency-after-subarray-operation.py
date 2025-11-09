@@ -1,5 +1,3 @@
-from collections import defaultdict
-
 class Solution:
     def maxFrequency(self, nums: List[int], k: int) -> int:
 
@@ -15,7 +13,7 @@ class Solution:
         counter = nums.count(k)
         mx = counter
 
-        for key in freq.keys():
+        for key in range(1, 51):
 
             toy = nums.copy()
 
