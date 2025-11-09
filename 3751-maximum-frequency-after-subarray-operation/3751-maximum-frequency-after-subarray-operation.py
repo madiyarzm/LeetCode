@@ -1,10 +1,10 @@
 class Solution:
     def maxFrequency(self, nums: List[int], k: int) -> int:
-        #unique = set(nums)
+        unique = set(nums)
         counter = nums.count(k)
         mx = counter
 
-        for key in range(1,51):
+        for key in unique:
             if key == k:
                 continue
 
