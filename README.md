@@ -62,6 +62,7 @@ A collection of LeetCode questions I solved, divided to categories!
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/madiyarzm/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/madiyarzm/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/madiyarzm/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/madiyarzm/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions I solved, divided to categories!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/madiyarzm/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/madiyarzm/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/madiyarzm/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/madiyarzm/LeetCode/tree/master/0055-jump-game) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions I solved, divided to categories!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/madiyarzm/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/madiyarzm/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/madiyarzm/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/madiyarzm/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/madiyarzm/LeetCode/tree/master/0013-roman-to-integer) |
