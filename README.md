@@ -73,6 +73,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/madiyarzm/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/madiyarzm/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/madiyarzm/LeetCode/tree/master/0202-happy-number) |
+| [0295-find-median-from-data-stream](https://github.com/madiyarzm/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/madiyarzm/LeetCode/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/madiyarzm/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/madiyarzm/LeetCode/tree/master/0768-partition-labels) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0169-majority-element](https://github.com/madiyarzm/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/madiyarzm/LeetCode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/madiyarzm/LeetCode/tree/master/0274-h-index) |
+| [0295-find-median-from-data-stream](https://github.com/madiyarzm/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/madiyarzm/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/madiyarzm/LeetCode/tree/master/0778-reorganize-string) |
 | [1829-maximum-units-on-a-truck](https://github.com/madiyarzm/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions I solved, divided to categories!
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/madiyarzm/LeetCode/tree/master/0155-min-stack) |
+| [0295-find-median-from-data-stream](https://github.com/madiyarzm/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/madiyarzm/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1708-design-parking-system](https://github.com/madiyarzm/LeetCode/tree/master/1708-design-parking-system) |
 | [2169-simple-bank-system](https://github.com/madiyarzm/LeetCode/tree/master/2169-simple-bank-system) |
@@ -399,6 +402,7 @@ A collection of LeetCode questions I solved, divided to categories!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/madiyarzm/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/madiyarzm/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/madiyarzm/LeetCode/tree/master/0778-reorganize-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/madiyarzm/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -428,4 +432,8 @@ A collection of LeetCode questions I solved, divided to categories!
 |  |
 | ------- |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/madiyarzm/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/madiyarzm/LeetCode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
