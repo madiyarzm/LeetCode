@@ -9,7 +9,6 @@ class MedianFinder:
 
     def addNum(self, num: int) -> None:
         
-
         #empty or if it belongs to lower half
         if len(self.maxheap) == 0 or num <= self.maxheap[0] * -1:
             heapq.heappush(self.maxheap, num * -1)
@@ -17,16 +16,21 @@ class MedianFinder:
         else:
             heapq.heappush(self.minheap, num)
         
+
+        #rebalancing, 2 cases: when maxheap too large
         if len(self.maxheap) >= len(self.minheap) + 2:
             heapq.heappush(self.minheap, self.maxheap[0] * -1)
             heapq.heappop(self.maxheap)
         
+        #if minheap is larget than maxheap
         elif len(self.maxheap) < len(self.minheap):
             heapq.heappush(self.maxheap, self.minheap[0] * -1)
             heapq.heappop(self.minheap)
             
 
     def findMedian(self) -> float:
+
+        #consider even and odd cases
         if (len(self.maxheap) + len(self.minheap)) % 2 == 0:
             return (self.maxheap[0] * -1 + self.minheap[0]) / 2
         
