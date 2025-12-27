@@ -42,6 +42,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/madiyarzm/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/madiyarzm/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1755-defuse-the-bomb](https://github.com/madiyarzm/LeetCode/tree/master/1755-defuse-the-bomb) |
+| [1801-number-of-orders-in-the-backlog](https://github.com/madiyarzm/LeetCode/tree/master/1801-number-of-orders-in-the-backlog) |
 | [1829-maximum-units-on-a-truck](https://github.com/madiyarzm/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [2048-build-array-from-permutation](https://github.com/madiyarzm/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/madiyarzm/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | ------- |
 | [0054-spiral-matrix](https://github.com/madiyarzm/LeetCode/tree/master/0054-spiral-matrix) |
 | [1708-design-parking-system](https://github.com/madiyarzm/LeetCode/tree/master/1708-design-parking-system) |
+| [1801-number-of-orders-in-the-backlog](https://github.com/madiyarzm/LeetCode/tree/master/1801-number-of-orders-in-the-backlog) |
 | [2048-build-array-from-permutation](https://github.com/madiyarzm/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/madiyarzm/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/madiyarzm/LeetCode/tree/master/2169-simple-bank-system) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0295-find-median-from-data-stream](https://github.com/madiyarzm/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/madiyarzm/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/madiyarzm/LeetCode/tree/master/0778-reorganize-string) |
+| [1801-number-of-orders-in-the-backlog](https://github.com/madiyarzm/LeetCode/tree/master/1801-number-of-orders-in-the-backlog) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/madiyarzm/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Bucket Sort
 |  |
