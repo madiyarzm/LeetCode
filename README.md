@@ -92,6 +92,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0036-valid-sudoku](https://github.com/madiyarzm/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/madiyarzm/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/madiyarzm/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/madiyarzm/LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/madiyarzm/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/madiyarzm/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/madiyarzm/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions I solved, divided to categories!
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/madiyarzm/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/madiyarzm/LeetCode/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/madiyarzm/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/madiyarzm/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions I solved, divided to categories!
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/madiyarzm/LeetCode/tree/master/0146-lru-cache) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/madiyarzm/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Data Stream
 |  |
@@ -447,4 +450,8 @@ A collection of LeetCode questions I solved, divided to categories!
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/madiyarzm/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/madiyarzm/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
