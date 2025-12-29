@@ -39,6 +39,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0739-daily-temperatures](https://github.com/madiyarzm/LeetCode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/madiyarzm/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0940-fruit-into-baskets](https://github.com/madiyarzm/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/madiyarzm/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/madiyarzm/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/madiyarzm/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1755-defuse-the-bomb](https://github.com/madiyarzm/LeetCode/tree/master/1755-defuse-the-bomb) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0069-sqrtx](https://github.com/madiyarzm/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/madiyarzm/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/madiyarzm/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/madiyarzm/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/madiyarzm/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Sliding Window
 |  |
@@ -294,6 +296,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0219-contains-duplicate-ii](https://github.com/madiyarzm/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/madiyarzm/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0940-fruit-into-baskets](https://github.com/madiyarzm/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/madiyarzm/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1755-defuse-the-bomb](https://github.com/madiyarzm/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/madiyarzm/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/madiyarzm/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -302,6 +305,7 @@ A collection of LeetCode questions I solved, divided to categories!
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/madiyarzm/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/madiyarzm/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/madiyarzm/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/madiyarzm/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/madiyarzm/LeetCode/tree/master/3751-maximum-frequency-after-subarray-operation) |
