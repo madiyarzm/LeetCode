@@ -53,6 +53,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/madiyarzm/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/madiyarzm/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/madiyarzm/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/madiyarzm/LeetCode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/madiyarzm/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/madiyarzm/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3194-find-words-containing-character](https://github.com/madiyarzm/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [2169-simple-bank-system](https://github.com/madiyarzm/LeetCode/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/madiyarzm/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/madiyarzm/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/madiyarzm/LeetCode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/madiyarzm/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/madiyarzm/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/madiyarzm/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [2174-next-greater-numerically-balanced-number](https://github.com/madiyarzm/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/madiyarzm/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/madiyarzm/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/madiyarzm/LeetCode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/madiyarzm/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/madiyarzm/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/madiyarzm/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -244,6 +247,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/madiyarzm/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1829-maximum-units-on-a-truck](https://github.com/madiyarzm/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/madiyarzm/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/madiyarzm/LeetCode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/madiyarzm/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/madiyarzm/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/madiyarzm/LeetCode/tree/master/3751-maximum-frequency-after-subarray-operation) |
