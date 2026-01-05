@@ -10,7 +10,9 @@ class Solution:
         if not root:
             return 0
         
+        #get recursively left and right sub tree max depths
         l = self.maxDepth(root.left)
         r = self.maxDepth(root.right)
 
+        #count the current node and add max depths of subtrees
         return max(l,r) + 1
