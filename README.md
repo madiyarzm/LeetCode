@@ -231,6 +231,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/madiyarzm/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/madiyarzm/LeetCode/tree/master/0459-repeated-substring-pattern) |
+| [0572-subtree-of-another-tree](https://github.com/madiyarzm/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -361,6 +362,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0404-sum-of-left-leaves](https://github.com/madiyarzm/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/madiyarzm/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/madiyarzm/LeetCode/tree/master/0547-number-of-provinces) |
+| [0572-subtree-of-another-tree](https://github.com/madiyarzm/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/madiyarzm/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/madiyarzm/LeetCode/tree/master/0733-flood-fill) |
 | [0904-leaf-similar-trees](https://github.com/madiyarzm/LeetCode/tree/master/0904-leaf-similar-trees) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0226-invert-binary-tree](https://github.com/madiyarzm/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/madiyarzm/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/madiyarzm/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/madiyarzm/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/madiyarzm/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-leaf-similar-trees](https://github.com/madiyarzm/LeetCode/tree/master/0904-leaf-similar-trees) |
 ## Binary Tree
@@ -417,6 +420,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0226-invert-binary-tree](https://github.com/madiyarzm/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/madiyarzm/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/madiyarzm/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/madiyarzm/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/madiyarzm/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-leaf-similar-trees](https://github.com/madiyarzm/LeetCode/tree/master/0904-leaf-similar-trees) |
 ## Recursion
@@ -483,4 +487,8 @@ A collection of LeetCode questions I solved, divided to categories!
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/madiyarzm/LeetCode/tree/master/0146-lru-cache) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/madiyarzm/LeetCode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
