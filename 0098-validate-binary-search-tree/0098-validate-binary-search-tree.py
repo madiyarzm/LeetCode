@@ -8,12 +8,16 @@ class Solution:
     def isValidBST(self, root: Optional[TreeNode]) -> bool:
         
         def valid(node, low = float("-inf"), high = float("inf")):
+
+            #base case
             if not node:
                 return True
             
+            #condition fails, subproblem ->
             if not (low < node.val < high):
                 return False
             
+            #recursion formula: each node should lay between its ranges
             return (
                 valid(node.left, low, node.val) and valid(node.right, node.val, high)
             )
