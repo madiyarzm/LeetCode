@@ -357,6 +357,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0210-course-schedule-ii](https://github.com/madiyarzm/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/madiyarzm/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/madiyarzm/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/madiyarzm/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/madiyarzm/LeetCode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/madiyarzm/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/madiyarzm/LeetCode/tree/master/0733-flood-fill) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0104-maximum-depth-of-binary-tree](https://github.com/madiyarzm/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/madiyarzm/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/madiyarzm/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/madiyarzm/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/madiyarzm/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-leaf-similar-trees](https://github.com/madiyarzm/LeetCode/tree/master/0904-leaf-similar-trees) |
 ## Binary Tree
@@ -407,6 +409,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0104-maximum-depth-of-binary-tree](https://github.com/madiyarzm/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/madiyarzm/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/madiyarzm/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/madiyarzm/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/madiyarzm/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-leaf-similar-trees](https://github.com/madiyarzm/LeetCode/tree/master/0904-leaf-similar-trees) |
 ## Recursion
