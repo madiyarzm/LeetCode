@@ -351,6 +351,7 @@ A collection of LeetCode questions I solved, divided to categories!
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/madiyarzm/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/madiyarzm/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/madiyarzm/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/madiyarzm/LeetCode/tree/master/0110-balanced-binary-tree) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions I solved, divided to categories!
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/madiyarzm/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/madiyarzm/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/madiyarzm/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/madiyarzm/LeetCode/tree/master/0110-balanced-binary-tree) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions I solved, divided to categories!
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/madiyarzm/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/madiyarzm/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/madiyarzm/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/madiyarzm/LeetCode/tree/master/0110-balanced-binary-tree) |
@@ -433,6 +436,7 @@ A collection of LeetCode questions I solved, divided to categories!
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/madiyarzm/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/madiyarzm/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Backtracking
 |  |
