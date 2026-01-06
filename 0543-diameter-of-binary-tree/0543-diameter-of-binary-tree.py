@@ -7,6 +7,8 @@
 class Solution:
     def diameterOfBinaryTree(self, root: Optional[TreeNode]) -> int:
         
+
+        #global value that will be updated
         d = 0
         
         def max_dfs(node):
@@ -18,6 +20,9 @@ class Solution:
             
             left = max_dfs(node.left)
             right = max_dfs(node.right)
+
+            #we still just find max depth between left and right subtrees given
+            #so one parent higher we can get local nodes diameter
 
             d = max(d, left + right)
 
