@@ -351,6 +351,7 @@ A collection of LeetCode questions I solved, divided to categories!
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/madiyarzm/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/madiyarzm/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0130-surrounded-regions](https://github.com/madiyarzm/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/madiyarzm/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/madiyarzm/LeetCode/tree/master/0207-course-schedule) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions I solved, divided to categories!
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/madiyarzm/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/madiyarzm/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/madiyarzm/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/madiyarzm/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/madiyarzm/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions I solved, divided to categories!
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/madiyarzm/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/madiyarzm/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/madiyarzm/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/madiyarzm/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/madiyarzm/LeetCode/tree/master/0543-diameter-of-binary-tree) |
