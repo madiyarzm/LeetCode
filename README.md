@@ -372,6 +372,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/madiyarzm/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/madiyarzm/LeetCode/tree/master/0733-flood-fill) |
 | [0904-leaf-similar-trees](https://github.com/madiyarzm/LeetCode/tree/master/0904-leaf-similar-trees) |
+| [1971-find-if-path-exists-in-graph](https://github.com/madiyarzm/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -389,6 +390,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0547-number-of-provinces](https://github.com/madiyarzm/LeetCode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/madiyarzm/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/madiyarzm/LeetCode/tree/master/0733-flood-fill) |
+| [1971-find-if-path-exists-in-graph](https://github.com/madiyarzm/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union Find
 |  |
 | ------- |
@@ -396,12 +398,14 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0130-surrounded-regions](https://github.com/madiyarzm/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/madiyarzm/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/madiyarzm/LeetCode/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/madiyarzm/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/madiyarzm/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/madiyarzm/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/madiyarzm/LeetCode/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/madiyarzm/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
 | ------- |
