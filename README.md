@@ -186,6 +186,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0118-pascals-triangle](https://github.com/madiyarzm/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madiyarzm/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/madiyarzm/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/madiyarzm/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0322-coin-change](https://github.com/madiyarzm/LeetCode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/madiyarzm/LeetCode/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/madiyarzm/LeetCode/tree/master/0647-palindromic-substrings) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0101-symmetric-tree](https://github.com/madiyarzm/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/madiyarzm/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/madiyarzm/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/madiyarzm/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/madiyarzm/LeetCode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/madiyarzm/LeetCode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/madiyarzm/LeetCode/tree/master/0200-number-of-islands) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0101-symmetric-tree](https://github.com/madiyarzm/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/madiyarzm/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/madiyarzm/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/madiyarzm/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/madiyarzm/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/madiyarzm/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/madiyarzm/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -446,6 +449,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0101-symmetric-tree](https://github.com/madiyarzm/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/madiyarzm/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/madiyarzm/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/madiyarzm/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/madiyarzm/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/madiyarzm/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/madiyarzm/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
