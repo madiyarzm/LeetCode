@@ -383,6 +383,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0226-invert-binary-tree](https://github.com/madiyarzm/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/madiyarzm/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/madiyarzm/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0332-reconstruct-itinerary](https://github.com/madiyarzm/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0404-sum-of-left-leaves](https://github.com/madiyarzm/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/madiyarzm/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/madiyarzm/LeetCode/tree/master/0547-number-of-provinces) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0133-clone-graph](https://github.com/madiyarzm/LeetCode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/madiyarzm/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/madiyarzm/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0332-reconstruct-itinerary](https://github.com/madiyarzm/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0547-number-of-provinces](https://github.com/madiyarzm/LeetCode/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/madiyarzm/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
@@ -537,4 +539,8 @@ A collection of LeetCode questions I solved, divided to categories!
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/madiyarzm/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/madiyarzm/LeetCode/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
