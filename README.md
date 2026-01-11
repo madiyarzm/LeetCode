@@ -12,6 +12,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0039-combination-sum](https://github.com/madiyarzm/LeetCode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/madiyarzm/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/madiyarzm/LeetCode/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/madiyarzm/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/madiyarzm/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/madiyarzm/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/madiyarzm/LeetCode/tree/master/0055-jump-game) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions I solved, divided to categories!
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/madiyarzm/LeetCode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/madiyarzm/LeetCode/tree/master/0046-permutations) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/madiyarzm/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Heap (Priority Queue)
 |  |
