@@ -59,6 +59,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/madiyarzm/LeetCode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/madiyarzm/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/madiyarzm/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/madiyarzm/LeetCode/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3194-find-words-containing-character](https://github.com/madiyarzm/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/madiyarzm/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/madiyarzm/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/madiyarzm/LeetCode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/madiyarzm/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/madiyarzm/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/madiyarzm/LeetCode/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/madiyarzm/LeetCode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Design
 |  |
