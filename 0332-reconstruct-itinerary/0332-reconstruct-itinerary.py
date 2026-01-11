@@ -1,8 +1,8 @@
-from collections import defaultdict
+from collections import defaultdict, deque
 
 class Solution:
     def findItinerary(self, tickets):
-        graph = defaultdict(list)
+        graph = defaultdict(deque)
 
         for src, dst in sorted(tickets):
             graph[src].append(dst)
@@ -11,7 +11,7 @@ class Solution:
 
         def dfs(src):
             while graph[src]:
-                dfs(graph[src].pop(0))
+                dfs(graph[src].popleft())
             res.append(src)
 
         dfs("JFK")
