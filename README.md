@@ -9,6 +9,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/madiyarzm/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/madiyarzm/LeetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/madiyarzm/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/madiyarzm/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/madiyarzm/LeetCode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/madiyarzm/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/madiyarzm/LeetCode/tree/master/0045-jump-game-ii) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0012-integer-to-roman](https://github.com/madiyarzm/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/madiyarzm/LeetCode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/madiyarzm/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/madiyarzm/LeetCode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/madiyarzm/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/madiyarzm/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/madiyarzm/LeetCode/tree/master/0133-clone-graph) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions I solved, divided to categories!
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/madiyarzm/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/madiyarzm/LeetCode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/madiyarzm/LeetCode/tree/master/0054-spiral-matrix) |
 | [0130-surrounded-regions](https://github.com/madiyarzm/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/madiyarzm/LeetCode/tree/master/0200-number-of-islands) |
@@ -483,6 +486,7 @@ A collection of LeetCode questions I solved, divided to categories!
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/madiyarzm/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/madiyarzm/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/madiyarzm/LeetCode/tree/master/0046-permutations) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/madiyarzm/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
