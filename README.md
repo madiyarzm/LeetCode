@@ -201,6 +201,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/madiyarzm/LeetCode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/madiyarzm/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/madiyarzm/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2484-count-palindromic-subsequences](https://github.com/madiyarzm/LeetCode/tree/master/2484-count-palindromic-subsequences) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/madiyarzm/LeetCode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## String
 |  |
@@ -233,6 +234,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/madiyarzm/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/madiyarzm/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/madiyarzm/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2484-count-palindromic-subsequences](https://github.com/madiyarzm/LeetCode/tree/master/2484-count-palindromic-subsequences) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/madiyarzm/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3194-find-words-containing-character](https://github.com/madiyarzm/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/madiyarzm/LeetCode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
