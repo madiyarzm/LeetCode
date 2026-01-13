@@ -1,24 +1,23 @@
 from collections import defaultdict
 class Solution:
     def suggestedProducts(self, products: List[str], searchWord: str) -> List[List[str]]:
-        
-        def helper(products, substring):
-            output = []
-
-            for product in products:
-                if len(output) == 3:
-                    break
-
-                if product.startswith(substring):
-                    output.append(product)
-
-            return output
-
         res = []
-        order = sorted(products)
-        for i in range(len(searchWord)):
-            substring = searchWord[:i+1]
-            res.append(helper(order, substring))
+        products.sort()
 
+        l, r = 0, len(products) - 1
+        for i in range(len(searchWord)):
+            c = searchWord[i]
+
+            while l <= r and (len(products[l]) <= i or products[l][i] != c):
+                l += 1
+
+            while l <= r and (len(products[r]) <= i or products[r][i] != c):
+                r -= 1
+            
+            res.append([])
+            remain = r - l + 1
+
+            for j in range(min(3, remain)):
+                res[-1].append(products[l+j])
+            
         return res
-                
