@@ -45,6 +45,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0747-min-cost-climbing-stairs](https://github.com/madiyarzm/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0940-fruit-into-baskets](https://github.com/madiyarzm/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/madiyarzm/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1268-search-suggestions-system](https://github.com/madiyarzm/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/madiyarzm/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/madiyarzm/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1755-defuse-the-bomb](https://github.com/madiyarzm/LeetCode/tree/master/1755-defuse-the-bomb) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0295-find-median-from-data-stream](https://github.com/madiyarzm/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/madiyarzm/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/madiyarzm/LeetCode/tree/master/0778-reorganize-string) |
+| [1268-search-suggestions-system](https://github.com/madiyarzm/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1829-maximum-units-on-a-truck](https://github.com/madiyarzm/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/madiyarzm/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Counting
@@ -231,6 +233,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0768-partition-labels](https://github.com/madiyarzm/LeetCode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/madiyarzm/LeetCode/tree/master/0778-reorganize-string) |
 | [0961-long-pressed-name](https://github.com/madiyarzm/LeetCode/tree/master/0961-long-pressed-name) |
+| [1268-search-suggestions-system](https://github.com/madiyarzm/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/madiyarzm/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1894-merge-strings-alternately](https://github.com/madiyarzm/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/madiyarzm/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -245,6 +248,7 @@ A collection of LeetCode questions I solved, divided to categories!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/madiyarzm/LeetCode/tree/master/0014-longest-common-prefix) |
+| [1268-search-suggestions-system](https://github.com/madiyarzm/LeetCode/tree/master/1268-search-suggestions-system) |
 ## String Matching
 |  |
 | ------- |
@@ -314,6 +318,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0209-minimum-size-subarray-sum](https://github.com/madiyarzm/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/madiyarzm/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/madiyarzm/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1268-search-suggestions-system](https://github.com/madiyarzm/LeetCode/tree/master/1268-search-suggestions-system) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/madiyarzm/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Sliding Window
 |  |
@@ -502,6 +507,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0295-find-median-from-data-stream](https://github.com/madiyarzm/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/madiyarzm/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/madiyarzm/LeetCode/tree/master/0778-reorganize-string) |
+| [1268-search-suggestions-system](https://github.com/madiyarzm/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1801-number-of-orders-in-the-backlog](https://github.com/madiyarzm/LeetCode/tree/master/1801-number-of-orders-in-the-backlog) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/madiyarzm/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Bucket Sort
