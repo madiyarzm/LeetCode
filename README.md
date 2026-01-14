@@ -188,6 +188,7 @@ A collection of LeetCode questions I solved, divided to categories!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/madiyarzm/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/madiyarzm/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/madiyarzm/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/madiyarzm/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/madiyarzm/LeetCode/tree/master/0055-jump-game) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0003-longest-substring-without-repeating-characters](https://github.com/madiyarzm/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/madiyarzm/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/madiyarzm/LeetCode/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/madiyarzm/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/madiyarzm/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/madiyarzm/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/madiyarzm/LeetCode/tree/master/0014-longest-common-prefix) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions I solved, divided to categories!
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/madiyarzm/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0231-power-of-two](https://github.com/madiyarzm/LeetCode/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/madiyarzm/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/madiyarzm/LeetCode/tree/master/0326-power-of-three) |
