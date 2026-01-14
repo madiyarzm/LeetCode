@@ -40,6 +40,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0322-coin-change](https://github.com/madiyarzm/LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/madiyarzm/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/madiyarzm/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0399-evaluate-division](https://github.com/madiyarzm/LeetCode/tree/master/0399-evaluate-division) |
 | [0733-flood-fill](https://github.com/madiyarzm/LeetCode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/madiyarzm/LeetCode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/madiyarzm/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/madiyarzm/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0383-ransom-note](https://github.com/madiyarzm/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/madiyarzm/LeetCode/tree/master/0392-is-subsequence) |
+| [0399-evaluate-division](https://github.com/madiyarzm/LeetCode/tree/master/0399-evaluate-division) |
 | [0459-repeated-substring-pattern](https://github.com/madiyarzm/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0647-palindromic-substrings](https://github.com/madiyarzm/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/madiyarzm/LeetCode/tree/master/0768-partition-labels) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/madiyarzm/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/madiyarzm/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/madiyarzm/LeetCode/tree/master/0332-reconstruct-itinerary) |
+| [0399-evaluate-division](https://github.com/madiyarzm/LeetCode/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/madiyarzm/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/madiyarzm/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/madiyarzm/LeetCode/tree/master/0547-number-of-provinces) |
@@ -421,6 +424,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0226-invert-binary-tree](https://github.com/madiyarzm/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/madiyarzm/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/madiyarzm/LeetCode/tree/master/0322-coin-change) |
+| [0399-evaluate-division](https://github.com/madiyarzm/LeetCode/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/madiyarzm/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/madiyarzm/LeetCode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/madiyarzm/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -432,6 +436,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0128-longest-consecutive-sequence](https://github.com/madiyarzm/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/madiyarzm/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/madiyarzm/LeetCode/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/madiyarzm/LeetCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/madiyarzm/LeetCode/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/madiyarzm/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph
@@ -441,6 +446,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0207-course-schedule](https://github.com/madiyarzm/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/madiyarzm/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0332-reconstruct-itinerary](https://github.com/madiyarzm/LeetCode/tree/master/0332-reconstruct-itinerary) |
+| [0399-evaluate-division](https://github.com/madiyarzm/LeetCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/madiyarzm/LeetCode/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/madiyarzm/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
@@ -561,4 +567,8 @@ A collection of LeetCode questions I solved, divided to categories!
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/madiyarzm/LeetCode/tree/master/0332-reconstruct-itinerary) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/madiyarzm/LeetCode/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
