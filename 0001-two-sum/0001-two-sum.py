@@ -1,11 +1,12 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        
-        d = {}
+        hmap = {}
 
         for i in range(len(nums)):
 
-            if target - nums[i] in d:
-                return [i, d[target - nums[i]]]
+            #check whether we have complement stored in dict
+            if target - nums[i] in hmap:
+                return [hmap[target - nums[i]], i]
             
-            d[nums[i]] = i
+            #if not store the index, for future
+            hmap[nums[i]] = i
