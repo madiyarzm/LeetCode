@@ -32,6 +32,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0189-rotate-array](https://github.com/madiyarzm/LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/madiyarzm/LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/madiyarzm/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/madiyarzm/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/madiyarzm/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/madiyarzm/LeetCode/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/madiyarzm/LeetCode/tree/master/0239-sliding-window-maximum) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0169-majority-element](https://github.com/madiyarzm/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/madiyarzm/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/madiyarzm/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/madiyarzm/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/madiyarzm/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/madiyarzm/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/madiyarzm/LeetCode/tree/master/0290-word-pattern) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0049-group-anagrams](https://github.com/madiyarzm/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/madiyarzm/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/madiyarzm/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/madiyarzm/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/madiyarzm/LeetCode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/madiyarzm/LeetCode/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/madiyarzm/LeetCode/tree/master/0295-find-median-from-data-stream) |
