@@ -1,26 +1,27 @@
-from collections import defaultdict
+from collections import Counter
+
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
         
-        freq = defaultdict(int)
+        freq = Counter(nums)
 
-        for num in nums:
-            freq[num] += 1
-        
-        #now we have 1 -> 3, 2 -> 2, 3 -> 1
+        #create empty buckets
+        buckets = [[] for _ in range(len(nums) + 1)]
 
-        result = []
-        mx_list = list(freq.values())
+        #reverse num,count -> count, num
+        for num, count in freq.items():
+            buckets[count].append(num)
 
-        while k > 0:
-            mx = max(mx_list)
-            for number, count in freq.items():
-                if mx == count:
-                    result.append(number)
-                    freq.pop(number)
-                    break
+        #use buckets, so we dont have to sort through
+        res = []
+
+        #one bucket can have multiple numbers
+        for i in range(len(buckets) - 1, 0, -1):
+            for num in buckets[i]:
+                res.append(num)
+
+                if len(res) == k:
+                    return res
+         
             
-            mx_list.remove(mx)
-            k -= 1
-
-        return result
+          
