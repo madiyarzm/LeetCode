@@ -1,12 +1,22 @@
-from collections import defaultdict
+from collections import Counter, defaultdict
+
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        anagrams = defaultdict(list)
+        
+        hmap = defaultdict(list)
 
         for word in strs:
-            key = "".join(sorted(word))
+            
+            freq = [0] * 26
 
-            anagrams[key].append(word)
+            for letter in word:
+                freq[ord(letter) - ord('a')] += 1
+        
+            hmap[tuple(freq)].append(word)
+            
+        result = []
+        for group in hmap.values():
+            result.append(group)
+        
+        return result
 
-
-        return list(anagrams.values())
