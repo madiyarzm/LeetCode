@@ -576,4 +576,8 @@ A collection of LeetCode questions I solved, divided to categories!
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/madiyarzm/LeetCode/tree/master/0399-evaluate-division) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/madiyarzm/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
