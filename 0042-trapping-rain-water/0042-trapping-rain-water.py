@@ -1,23 +1,24 @@
 class Solution:
     def trap(self, height: List[int]) -> int:
-        i = 1
-        j = len(height) - 2
-    
+
+        l, r = 0, len(height) - 1
+        l_max, r_max = height[l], height[r]
         water = 0
-        left_mx = height[0]
-        right_mx = height[-1]
-        
-        while i <= j:
-            if left_mx <= right_mx:
-                left_mx = max(left_mx, height[i])
-                water = water + max(0, left_mx - height[i])
-                
-                i += 1
+
+        while l < r:
+            
+            #move the shorter max border
+            if l_max < r_max:
+                l += 1
+
+                l_max = max(l_max, height[l]) #update if taller found
+                water += l_max - height[l] #for this invidiual block, smallest of borders - current height
             
             else:
-                right_mx = max(right_mx, height[j])
-                water = water + max(0, right_mx - height[j])
-                
-                j -= 1
+                r -= 1
+
+                r_max = max(r_max, height[r])
+                water += r_max - height[r]
         
         return water
+
