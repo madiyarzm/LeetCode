@@ -1,21 +1,20 @@
 class Solution:
-    def maxArea(self, height: List[int]) -> int:
-        i = 0
-        j = len(height) - 1
+    def maxArea(self, heights: List[int]) -> int:
+        
+        mx = 0
+        current = 1
 
-        water = 0
-        mx_water = 0
+        l = 0
+        r = len(heights) - 1 
 
-        while i < j:
-            water = min(height[i], height[j]) * (j - i)
+        while l < r:
+            current = min(heights[l], heights[r]) #choose the shorter bar out of 2 borders
+            mx = max(mx, current * (r - l)) #update our max trapped water
 
-            if mx_water < water:
-                mx_water = water
+            if current == heights[l]: #if our left border is smaller, then move it
+                l += 1
 
-            if min(height[i], height[j]) == height[i]:
-                i += 1
-            
-            else:
-                j -= 1
-
-        return mx_water
+            else: 
+                r -= 1
+        
+        return mx
