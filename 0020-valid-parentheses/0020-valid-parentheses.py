@@ -1,29 +1,28 @@
 class Solution:
     def isValid(self, s: str) -> bool:
         
-
-        #key closing, value opening
-        close_to_open = {
-            ")": "(",
-            "}": "{",
-            "]": "[",
+        #matching closing to opening parenthesis
+        pars = {
+            '(': ')',
+            '{': '}',
+            '[': ']'
         }
 
         stack = []
 
-        for bracket in s:
-            
-            #if its opening, add to stack
-            if bracket not in close_to_open:
-                stack.append(bracket)
+        for i in range(len(s)):
 
-            else:
-
-                #if stack is not empty ")[" or last added opening is not same type as closing
-                if not stack or close_to_open[bracket] != stack[-1]:
+            #if its closing bracket, check whether top of the stack is its match
+            if s[i] == ')' or s[i] == '}' or s[i] == ']':
+                
+                if len(stack) == 0 or pars[stack[-1]] != s[i]: #if stack is empty, then closer appears before
                     return False
                 
-                #else, everything is fine, cancels out
-                stack.pop()
+                else:
+                    stack.pop() #after match remove opener from stack
+                    continue
+                
+            stack.append(s[i]) #if its opening, then add it to stack
         
-        return not stack
+        return len(stack) == 0
+            
