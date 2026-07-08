@@ -1,31 +1,25 @@
 class MinStack:
 
     def __init__(self):
-        self.minstack = []
         self.stack = []
+        self.min_stack = []
 
     def push(self, val: int) -> None:
         self.stack.append(val)
-        if len(self.stack) == 1:
-            self.minstack.append(val)
+
+        if not self.min_stack or self.min_stack[-1] > val: #make it monotonically decreasing stack
+            self.min_stack.append(val)
         
         else:
-            self.minstack.append((min(self.minstack[-1], val)))
+            self.min_stack.append(self.min_stack[-1]) #duplicate to get same amount of length on both stacks
+            
 
     def pop(self) -> None:
         self.stack.pop()
-        self.minstack.pop()
+        self.min_stack.pop()
 
     def top(self) -> int:
         return self.stack[-1]
 
     def getMin(self) -> int:
-        return self.minstack[-1]
-
-
-# Your MinStack object will be instantiated and called as such:
-# obj = MinStack()
-# obj.push(val)
-# obj.pop()
-# param_3 = obj.top()
-# param_4 = obj.getMin()
+        return self.min_stack[-1]
