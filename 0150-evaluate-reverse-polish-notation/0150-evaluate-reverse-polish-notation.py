@@ -1,35 +1,36 @@
 class Solution:
     def evalRPN(self, tokens: List[str]) -> int:
-        
-
-        #we use stack structure
-
         stack = []
-    
+
+        #add to stack numbers, if operation seen, pull up TOP 2 numbers and operate on them, result goes back to stack
         for token in tokens:
+            if token == "+":
+                operand2 = stack.pop()
+                operand1 = stack.pop()
 
-            #if token is number, then push to stack
-            if token.lstrip('-').isdigit():
-                stack.append(int(token))
+                stack.append(operand1 + operand2)
+                
+            elif token == "-":
+                operand2 = stack.pop()
+                operand1 = stack.pop()
 
-            #if token is not number -> operand
+                stack.append(operand1 - operand2)
+                
+            elif token == "*":
+                operand2 = stack.pop()
+                operand1 = stack.pop()
+
+                stack.append(operand1 * operand2)
+                
+            elif token == "/":
+                operand2 = stack.pop()
+                operand1 = stack.pop()
+            
+                #int() truncates toward zero (chops of decimals)
+                #// goes down 1, like floot() in C++
+                stack.append(int(operand1 / operand2)) 
+
             else:
-
-                #get the two last added numbers before operand
-                prev1 = stack.pop()
-                prev2 = stack.pop()
-
-                if token == "+":
-                    stack.append(prev2 + prev1)
-
-                if token == "-":
-                    stack.append(prev2 - prev1)
-                
-                if token == "/":
-                    stack.append(int(prev2 / prev1))
-                
-                if token == "*":
-                    stack.append(prev2 * prev1)
+                stack.append(int(token))
         
-        #there should be only one value left
-        return stack[-1]
+        return int(stack[0])
