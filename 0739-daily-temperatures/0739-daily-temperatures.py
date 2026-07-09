@@ -1,15 +1,18 @@
 class Solution:
     def dailyTemperatures(self, temperatures: List[int]) -> List[int]:
         
-        result = [0] * len(temperatures)
         stack = []
 
-        for i, t in enumerate(temperatures):
+        #create result array to where we will place based on the index of temperature, not append
+        result = [0] * len(temperatures)
 
-            while stack and t > stack[-1][0]:
-                stackT, stackI = stack.pop()
-                result[stackI] = (i - stackI)
+        for i in range(len(temperatures)):
             
-            stack.append([t, i])
+            #stack is non empty and its monotonic  decreasing
+            while stack and temperatures[i] > temperatures[stack[-1]]:
+                result[stack[-1]] = i - stack[-1] #since its indexes, be careful here
+                stack.pop() 
+            
+            stack.append(i)
         
         return result
