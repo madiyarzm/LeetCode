@@ -19,6 +19,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0054-spiral-matrix](https://github.com/madiyarzm/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/madiyarzm/LeetCode/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/madiyarzm/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/madiyarzm/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/madiyarzm/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/madiyarzm/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madiyarzm/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | ------- |
 | [0020-valid-parentheses](https://github.com/madiyarzm/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/madiyarzm/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/madiyarzm/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/madiyarzm/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/madiyarzm/LeetCode/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/madiyarzm/LeetCode/tree/master/0739-daily-temperatures) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions I solved, divided to categories!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/madiyarzm/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/madiyarzm/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/madiyarzm/LeetCode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/madiyarzm/LeetCode/tree/master/0853-car-fleet) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/madiyarzm/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
