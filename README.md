@@ -96,6 +96,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0287-find-the-duplicate-number](https://github.com/madiyarzm/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/madiyarzm/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/madiyarzm/LeetCode/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/madiyarzm/LeetCode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/madiyarzm/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/madiyarzm/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/madiyarzm/LeetCode/tree/master/0768-partition-labels) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0380-insert-delete-getrandom-o1](https://github.com/madiyarzm/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/madiyarzm/LeetCode/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/madiyarzm/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/madiyarzm/LeetCode/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/madiyarzm/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/madiyarzm/LeetCode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/madiyarzm/LeetCode/tree/master/0778-reorganize-string) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0399-evaluate-division](https://github.com/madiyarzm/LeetCode/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/madiyarzm/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/madiyarzm/LeetCode/tree/master/0459-repeated-substring-pattern) |
+| [0567-permutation-in-string](https://github.com/madiyarzm/LeetCode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/madiyarzm/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/madiyarzm/LeetCode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/madiyarzm/LeetCode/tree/master/0778-reorganize-string) |
@@ -350,6 +353,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0219-contains-duplicate-ii](https://github.com/madiyarzm/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/madiyarzm/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/madiyarzm/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/madiyarzm/LeetCode/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/madiyarzm/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/madiyarzm/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1755-defuse-the-bomb](https://github.com/madiyarzm/LeetCode/tree/master/1755-defuse-the-bomb) |
