@@ -1,31 +1,34 @@
-from collections import deque
+import heapq
+#from collections import defaultdict
 class Solution:
     def maxSlidingWindow(self, nums: List[int], k: int) -> List[int]:
-        
-        q = deque()
-        l = r = 0
+        heap = []
         result = []
 
-        #right pointer inbounds
-        while r < len(nums):
-            
-            #pop from right, while its non-empty and until its not monotonically decreasing
-            while q and nums[q[-1]] < nums[r]:
-                q.pop()
-            
-            #when its monotically decreasing add
-            q.append(r)
+        l = 0
+        #active = defaultdict(bool)
 
-            #check whether current leftmost(max) is inbounds, if not remove from left
-            if l > q[0]:
-                q.popleft()
-
-            #at least k sized window, and then start appending, once reached start l+=1
-            if (r + 1) >= k:
-                result.append(nums[q[0]])
+        for r in range(len(nums)):
+            heapq.heappush(heap, (nums[r] * -1, r)) #push tuple containing number and its index in the list
+            #active[r] = True
+             
+            if (r - l + 1) > k: #1 step at a time, so use if to shrink
+                #active[l] = False
                 l += 1
-            
-            r += 1
+
+            while heap:
+
+                item, item_id = heap[0]
+
+                if item_id < l:    #if top of the heap is out of window, pop it
+                    heapq.heappop(heap)
+                    continue
+                
+                else:
+                    if (r - l + 1) == k: #when we form window, read and return the maximum
+                        result.append(item * -1)
+
+                    break
+
 
         return result
-
