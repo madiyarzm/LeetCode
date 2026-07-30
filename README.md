@@ -18,6 +18,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0049-group-anagrams](https://github.com/madiyarzm/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/madiyarzm/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/madiyarzm/LeetCode/tree/master/0055-jump-game) |
+| [0074-search-a-2d-matrix](https://github.com/madiyarzm/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/madiyarzm/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/madiyarzm/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/madiyarzm/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | ------- |
 | [0035-search-insert-position](https://github.com/madiyarzm/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/madiyarzm/LeetCode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/madiyarzm/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/madiyarzm/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/madiyarzm/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/madiyarzm/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0036-valid-sudoku](https://github.com/madiyarzm/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/madiyarzm/LeetCode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/madiyarzm/LeetCode/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/madiyarzm/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/madiyarzm/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/madiyarzm/LeetCode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/madiyarzm/LeetCode/tree/master/0221-maximal-square) |
