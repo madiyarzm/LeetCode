@@ -51,6 +51,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0739-daily-temperatures](https://github.com/madiyarzm/LeetCode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/madiyarzm/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0853-car-fleet](https://github.com/madiyarzm/LeetCode/tree/master/0853-car-fleet) |
+| [0875-koko-eating-bananas](https://github.com/madiyarzm/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/madiyarzm/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/madiyarzm/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1268-search-suggestions-system](https://github.com/madiyarzm/LeetCode/tree/master/1268-search-suggestions-system) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0209-minimum-size-subarray-sum](https://github.com/madiyarzm/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/madiyarzm/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/madiyarzm/LeetCode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/madiyarzm/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/madiyarzm/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1268-search-suggestions-system](https://github.com/madiyarzm/LeetCode/tree/master/1268-search-suggestions-system) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/madiyarzm/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
