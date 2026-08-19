@@ -59,6 +59,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [1268-search-suggestions-system](https://github.com/madiyarzm/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/madiyarzm/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/madiyarzm/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/madiyarzm/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1755-defuse-the-bomb](https://github.com/madiyarzm/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1801-number-of-orders-in-the-backlog](https://github.com/madiyarzm/LeetCode/tree/master/1801-number-of-orders-in-the-backlog) |
 | [1829-maximum-units-on-a-truck](https://github.com/madiyarzm/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0739-daily-temperatures](https://github.com/madiyarzm/LeetCode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/madiyarzm/LeetCode/tree/master/0853-car-fleet) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/madiyarzm/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/madiyarzm/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -398,6 +400,7 @@ A collection of LeetCode questions I solved, divided to categories!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/madiyarzm/LeetCode/tree/master/0054-spiral-matrix) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/madiyarzm/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1708-design-parking-system](https://github.com/madiyarzm/LeetCode/tree/master/1708-design-parking-system) |
 | [1801-number-of-orders-in-the-backlog](https://github.com/madiyarzm/LeetCode/tree/master/1801-number-of-orders-in-the-backlog) |
 | [2048-build-array-from-permutation](https://github.com/madiyarzm/LeetCode/tree/master/2048-build-array-from-permutation) |
@@ -419,6 +422,7 @@ A collection of LeetCode questions I solved, divided to categories!
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/madiyarzm/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/madiyarzm/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/madiyarzm/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Depth-First Search
 |  |
