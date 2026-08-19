@@ -57,6 +57,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0940-fruit-into-baskets](https://github.com/madiyarzm/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/madiyarzm/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1268-search-suggestions-system](https://github.com/madiyarzm/LeetCode/tree/master/1268-search-suggestions-system) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/madiyarzm/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/madiyarzm/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/madiyarzm/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/madiyarzm/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
