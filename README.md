@@ -137,6 +137,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0242-valid-anagram](https://github.com/madiyarzm/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/madiyarzm/LeetCode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/madiyarzm/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/madiyarzm/LeetCode/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/madiyarzm/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/madiyarzm/LeetCode/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/madiyarzm/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0155-min-stack](https://github.com/madiyarzm/LeetCode/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/madiyarzm/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/madiyarzm/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0355-design-twitter](https://github.com/madiyarzm/LeetCode/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/madiyarzm/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1708-design-parking-system](https://github.com/madiyarzm/LeetCode/tree/master/1708-design-parking-system) |
 | [2169-simple-bank-system](https://github.com/madiyarzm/LeetCode/tree/master/2169-simple-bank-system) |
@@ -569,6 +571,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | [0239-sliding-window-maximum](https://github.com/madiyarzm/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/madiyarzm/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/madiyarzm/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/madiyarzm/LeetCode/tree/master/0355-design-twitter) |
 | [0692-top-k-frequent-words](https://github.com/madiyarzm/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/madiyarzm/LeetCode/tree/master/0778-reorganize-string) |
 | [1268-search-suggestions-system](https://github.com/madiyarzm/LeetCode/tree/master/1268-search-suggestions-system) |
@@ -602,6 +605,7 @@ A collection of LeetCode questions I solved, divided to categories!
 | ------- |
 | [0141-linked-list-cycle](https://github.com/madiyarzm/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/madiyarzm/LeetCode/tree/master/0146-lru-cache) |
+| [0355-design-twitter](https://github.com/madiyarzm/LeetCode/tree/master/0355-design-twitter) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/madiyarzm/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Data Stream
 |  |
