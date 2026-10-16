@@ -14,7 +14,7 @@ class Twitter:
     def getNewsFeed(self, userId: int) -> list[int]:
         users_to_read = self.following[userId]
 
-        all_tweets = list(self.tweets[userId])
+        all_tweets = list(self.tweets[userId][-10:])
         for user in users_to_read:
             all_tweets += self.tweets[user][-10:]
 
