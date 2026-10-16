@@ -16,7 +16,7 @@ class Twitter:
 
         all_tweets = list(self.tweets[userId])
         for user in users_to_read:
-            all_tweets += self.tweets[user]
+            all_tweets += self.tweets[user][-10:]
 
         tweet_heap = []
         for counter, tweetId in all_tweets:
@@ -26,10 +26,6 @@ class Twitter:
 
         result = []
         for i in range(min(len(tweet_heap), 10)):
-
-            if i == 10:
-                break
-
             negative_count, tweet = heapq.heappop(tweet_heap)
             result.append(tweet)
         
